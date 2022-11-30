@@ -1,0 +1,6 @@
+*.pyc
+result/
+report/
+.pytest_cache
+.idea
+*.log
